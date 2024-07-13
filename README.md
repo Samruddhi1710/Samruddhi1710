@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://"> </div>
+
 <h1 align="center">Hi 👋, I'm Samruddhi Nimbalkar</h1>
 <h3 align="center">A passionate Computer Engineering student from India</h3>
 
