@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://"> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/0a4f6a1a-da2f-44fe-98be-9a212d25f68e"> </div>
 
 <h1 align="center">Hi 👋, I'm Samruddhi Nimbalkar</h1>
 <h3 align="center">A passionate Computer Engineering student from India</h3>
