@@ -1,18 +1,18 @@
 <div align="center"> <img src="https://github.com/user-attachments/assets/0a4f6a1a-da2f-44fe-98be-9a212d25f68e"> </div>
 
 <h1 align="center">Hi 👋, I'm Samruddhi Nimbalkar</h1>
-<h3 align="center">A passionate Computer Engineering student from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhi1710&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhi1710" /> </p>
 
-- 🔭 I’m currently working on **Hackathon Project**
+- 🔭 I’m currently working on **Some Really Intresting and Fun Projects**
 
-- 🌱 I’m currently learning **Frameworks and DSA**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **samruddhinimbalkar3@gmail.com**
 
-- ⚡ Fun fact **I've recently started exploring the world of AI and machine learning.**
+- ⚡ Fun fact **Generative AI is taking the world to the next level must admit that!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
