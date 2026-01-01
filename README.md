@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **samruddhinimbalkar3@gmail.com**
-
+  
+- 📫 Fun Fact  **Also Exploring Deep learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
