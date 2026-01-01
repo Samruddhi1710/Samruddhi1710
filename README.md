@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **samruddhinimbalkar3@gmail.com**
 
-- ⚡ Fun fact **Generative AI is taking the world to the next level must admit that!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
